@@ -1,7 +1,6 @@
 - 👋 Hi, 
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email sreejithn2002@gmail.com
 
 <!---
