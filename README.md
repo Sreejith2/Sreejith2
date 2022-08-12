@@ -1,5 +1,5 @@
 - 👋 Hi, 
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Python programming and Web development
 - 🌱 I’m currently learning CSE
 - 📫 My email sreejithn2002@gmail.com
 
