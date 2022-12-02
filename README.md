@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejith2&label=Profile%20views&color=0e75b6&style=flat" alt="sreejith2" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://resume-chi-sooty.vercel.app/](https://resume-chi-sooty.vercel.app/)
+- 👨‍💻 [https://resume-chi-sooty.vercel.app/](https://resume-chi-sooty.vercel.app/)
 
 - 📫 How to reach me **sreejithn2002@gmail.com**
 
